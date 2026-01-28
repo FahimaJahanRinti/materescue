@@ -46,8 +46,8 @@ An AI-based web application that solves mathematical problems and explains solut
 2. Generate an API key
 3. Replace the API key inside `index.php`
 
-```php
-$apiKey = " ";
+```php  $apiKey = " ";
+
 ## 🚀 Implementation Details
 
 The project is implemented in the following steps:
