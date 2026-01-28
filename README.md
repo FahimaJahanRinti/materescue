@@ -37,9 +37,9 @@ An AI-based web application that solves mathematical problems and explains solut
 1. Install **XAMPP**
 2. Copy the project folder into:
 3. Start **Apache** from XAMPP Control Panel
-4. Open browser and visit:
+4. Open browser and visit localhost
 
----http://localhost/MATERESCUE/
+---
 
 ## 🔑 API Setup
 1. Create an OpenAI account
